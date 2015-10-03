@@ -1,0 +1,10 @@
+numpy
+pandas
+flask
+flask-stormpath
+tushare
+lxml
+zipline
+pyfolio
+mongoengine
+
