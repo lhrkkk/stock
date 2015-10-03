@@ -8,3 +8,5 @@ zipline
 pyfolio
 mongoengine
 
+flake8
+hacking
